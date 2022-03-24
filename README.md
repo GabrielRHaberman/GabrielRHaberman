@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá eu sou Gabriel Rodrigues Haberman!!!
 
-<!--
-**GabrielRHaberman/GabrielRHaberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Atualmente estou cursando o Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRHaberman&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRHaberman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<a href="https://mailto:gabrielrhabermann7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+
+
