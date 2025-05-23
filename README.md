@@ -1,6 +1,6 @@
 Olá eu sou Gabriel Rodrigues Haberman!!!
 
-* Atualmente estou cursando o Ensino Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
+* Atualmente estou cursando o Ensino Superior em Ciência da Computação no IFB.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRHaberman&show_icons=true&theme=synthwave)
 
