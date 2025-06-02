@@ -14,8 +14,6 @@ Olá eu sou Gabriel Rodrigues Haberman!!!
             src="https://custom-icon-badges.demolab.com/github/stars/GabrielRHaberman?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-<br>
-<br>
 <a href="https://github.com/GabrielRHaberman?tab=followers">
         <img 
             alt="Seguidores" 
@@ -123,7 +121,8 @@ Olá eu sou Gabriel Rodrigues Haberman!!!
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+<br>
+<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
