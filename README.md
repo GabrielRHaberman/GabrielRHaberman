@@ -5,6 +5,8 @@ Olá eu sou Gabriel Rodrigues Haberman!!!
 # 👩🏻‍💻 Gabriel Rodrigues Haberman
 
 **`Desenvolvedor FullStack`**
+<br>
+<br>
 <a href="https://github.com/GabrielRHaberman?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
