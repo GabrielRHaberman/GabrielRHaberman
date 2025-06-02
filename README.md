@@ -2,7 +2,7 @@ Olá eu sou Gabriel Rodrigues Haberman!!!
 
 * Atualmente estou cursando o Ensino Superior em Ciência da Computação no IFB.
 
-# 👩🏻‍💻 Gabriel Rodrigues Haberman
+# 👨🏽‍💻 Gabriel Rodrigues Haberman
 
 **`Desenvolvedor FullStack`**
 <br>
